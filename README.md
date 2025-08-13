@@ -2,7 +2,7 @@
 
 A simple Python game where the computer tries to guess the number you are thinking of between 1 and 5.
 
-## How to Play
+## How to Play Game
 1. Run the Python program.
 2. Think of a number between 1 and 5.
 3. The program will guess your number and ask if it is correct.
